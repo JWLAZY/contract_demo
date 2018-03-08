@@ -5,3 +5,7 @@
 ```
     node index.js
 ```
+
+#简介
+
+[issues链接](https://github.com/Jianwen-Zheng/block_chain_know/issues/5)
