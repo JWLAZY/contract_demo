@@ -4,9 +4,9 @@
 
 #运行 
 ```
-    node compile.js
+    node deply.js
 ```
 
 #简介
 
-[issues链接](https://github.com/Jianwen-Zheng/block_chain_know/issues/7)
+[issues链接](https://github.com/Jianwen-Zheng/block_chain_know/issues/8)
